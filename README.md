@@ -8,21 +8,21 @@
 
 - script didnt create new user 
 
-![[Project Screenshot](evidence/img2.png)
+![Project Screenshot](evidence/img2.png)
 
 ## Reboting System to test that proviosion script is working or not 
 
-![[Project Screenshot](evidence/img3.png)
+![Project Screenshot](evidence/img3.png)
 
 ## After reboting pyton server is still active (infra ) 
-![[Project Screenshot](evidence/img4.png)
+![Project Screenshot](evidence/img4.png)
 
 ## Testing CURL to get response 
-![[Project Screenshot](evidence/img5.png)
+![Project Screenshot](evidence/img5.png)
 
 ## Testing Validation Script
 
-![[Project Screenshot](evidence/img6.png)
+![Project Screenshot](evidence/img6.png)
 
 
 

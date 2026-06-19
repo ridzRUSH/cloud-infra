@@ -1,7 +1,7 @@
 
 #USE OF AI 
 
-used LLM - chatGpt , DeepSeek and Cloude
+used LLM - chatGpt , DeepSeek and Claude
 
 it helps to write better and error free code 
 - i used it as senior dev  for answers of questions like how servive can be build persistand 

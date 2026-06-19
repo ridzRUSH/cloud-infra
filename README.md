@@ -1,3 +1,12 @@
+
+#USE OF AI 
+
+used LLM - chatGpt , DeepSeek and Cloude
+
+it helps to write better and error free code 
+- i used it as senior dev  for answers of questions like how servive can be build persistand 
+- along with various bash examples 
+
 #Using ubuntu 26.4 LATEST
 
 

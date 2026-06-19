@@ -1,0 +1,17 @@
+[Unit]
+Description=Infrastructure Demo Service (Python HTTP health endpoint)
+After=network.target
+
+[Service]
+Type=simple
+User=infra-demo
+Group=infra-demo
+EnvironmentFile=/etc/infra-demo/infra-demo.env
+ExecStart=/usr/bin/python3 /opt/infra-demo/app.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
